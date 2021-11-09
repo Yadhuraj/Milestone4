@@ -1,0 +1,7 @@
+2021-11-09 12:14:43,597  INFO [main] BaseClass:20 - DriverSet
+ 2021-11-09 12:14:52,653  INFO [main] BaseClass:20 -  'Tide Free and Gentle powder' is present
+ 2021-11-09 12:14:55,878  INFO [main] BaseClass:20 - Succesfully validated the header 'Shop Products'
+ 2021-11-09 12:16:33,949  INFO [main] BaseClass:20 - antibacterialis present
+ 2021-11-09 12:16:33,949  INFO [main] BaseClass:20 - Search bar is validated
+ 2021-11-09 12:16:55,341 ERROR [main] BaseClass:28 - Did not Navigate to the expeected page
+ 

@@ -1,0 +1,6 @@
+2021-11-09 12:19:46,000  INFO [main] BaseClass:20 - DriverSet
+ 2021-11-09 12:20:08,307 ERROR [main] BaseClass:28 - Not Succesfull in  validating the header 'Shop Products'
+ 2021-11-09 12:21:21,077  INFO [main] BaseClass:20 - antibacterialis present
+ 2021-11-09 12:21:21,077  INFO [main] BaseClass:20 - Search bar is validated
+ 2021-11-09 12:21:37,778 ERROR [main] BaseClass:28 - Did not Navigate to the expeected page
+ 
